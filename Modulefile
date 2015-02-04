@@ -1,0 +1,10 @@
+name          'DavidS-scanf'
+version       '0.1.0'
+source        'https://github.com/DavidS/puppet-scanf'
+author        'DavidS'
+license       'Apache 2.0'
+summary       'Compat shim to provide scanf for non-future puppets.'
+description   ''
+project_page  'https://github.com/DavidS/puppet-scanf'
+
+dependency 'puppetlabs/stdlib'
